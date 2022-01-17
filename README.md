@@ -119,7 +119,7 @@ REMEMBER… I'm so confident that you'll love this course that we're offering a 
 
 So what are you waiting for? Click the buy now button and join the world's highest-rated development course.
 
-Who this course is for:
+### Who this course is for:
 - If you want to learn to code from scratch through building fun and useful projects, then take this course.
 - If you want to start your own startup by building your own websites and web apps.
 - If you are a complete beginner then this course will be everything you need to become a Python professional
