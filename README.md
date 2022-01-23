@@ -1,3 +1,7 @@
+<p align="center">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/74840026/150697079-efc5ff16-0349-46f0-ac8a-ec32df9eda6f.jpg">                                      
+</p>
+
 # 100daysofPython
 
 ### Description
